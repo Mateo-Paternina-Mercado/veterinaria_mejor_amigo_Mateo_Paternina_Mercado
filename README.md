@@ -57,7 +57,7 @@ En el archivo `consultas.sql` se pueden encontrar ejemplos de:
 
 📺 Puedes ver una explicación completa del proyecto y de las consultas en el siguiente video:
 
-🔗 [Ver video en YouTube](https://www.youtube.com) <!-- aqui va el link de youtube -->
+🔗 [Ver video en YouTube](https://www.youtube.com/watch?v=TqHYbZmaOIk)
 
 ---
 
